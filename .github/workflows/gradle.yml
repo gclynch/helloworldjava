@@ -3,7 +3,7 @@
 name: Java CI with Gradle
 
 on:
-  push:                         # CI
+  push:                         # CI only
     branches: [ master ]
 
 jobs:
