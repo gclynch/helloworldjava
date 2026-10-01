@@ -6,7 +6,6 @@
 
 // use gradle init to generate build.gradle initially
 // install gradle wrapper first
-// ok
 
 plugins {
     id 'java'    
